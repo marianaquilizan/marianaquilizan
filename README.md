@@ -14,18 +14,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Marian Aquilizan</h1>
-<h3 align="center">Cybersecurity student at BCIT</h3>
+<h1 align="center">Hi 👋 I'm Marian Aquilizan</h1>
+<h3 align="center">I'm a Cybersecurity student at BCIT</h3>
 
-- 🔭 I’m currently working on **Industrial Network Cybersecurity**
+- 🔭 I’m currently working on **Industrial Network Cybersecurity Project**
 
-- 🌱 I’m currently learning **CEH Ethical Hacker**
+- 🌱 I’m currently pursuing **the CEH Ethical Hacker  and CCNA Certification**
 
-- 👨‍💻 All of my projects are available at [aemarian.ca](aemarian.ca)
+- 👨‍💻 All of my projects are available at [aemarian.com](aemarian.com)
 
 - 📫 How to reach me **https://www.linkedin.com/in/marian-aquilizan**
 
-- ⚡ Fun fact **I like gourmet mushrooms**
+- ⚡ Fun fact **I like gourmet mushrooms** <img src="https://github.com/marianaquilizan/marianaquilizan/assets/167345394/47125100-9749-45c0-aaef-c4657fc50671" alt="image" width="40" height="auto" style="margin-left:500">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
