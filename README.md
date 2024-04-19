@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my **Industrial Network Cybersecurity Project**
 
-- 🌱 I’m currently pursuing the **CEH Ethical Hacker and CCNA Certification**
+- 🌱 I’m currently pursuing the **CompTIA Security+ and CCNA Certification**
 
-- 👨‍💻 All of my projects are available at <a href="aemarian.com">aemarian.com</a>
+- 👨‍💻 All of my projects are available at [go](https://aemarian.com){:target="_blank" rel="noopener"}
 
 - ⚡ Fun fact **I like gourmet mushrooms**&emsp;<img src="https://github.com/marianaquilizan/marianaquilizan/assets/167345394/47125100-9749-45c0-aaef-c4657fc50671" alt="image" width="40" height="auto" style="margin-left:500">
 
